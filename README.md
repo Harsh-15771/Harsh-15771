@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Developer | AI & Cloud Enthusiast
 
-I'm a final-year Computer Science undergraduate passionate about building software that solves real-world problems through scalable architecture, cloud technologies, and artificial intelligence.
+I'm a final-year undergraduate passionate about building software that solves real-world problems through scalable architecture, cloud technologies, and artificial intelligence.
 
 I enjoy taking ideas from concept to deployment—designing intuitive user experiences, developing secure backend systems, integrating intelligent features, and automating deployment pipelines.
 
