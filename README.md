@@ -80,6 +80,25 @@ An IoT-enabled healthcare monitoring system that detects cardiac arrhythmias fro
 
 ---
 
+## 🛡️ Shift Safety Commander
+
+An AI-powered industrial safety decision-support system designed to analyze real-time sensor data, predict potential equipment failures, and assist operators with actionable safety recommendations.
+
+**Highlights**
+- 🌡️ Real-Time Pressure, Temperature, Gas & Vibration Monitoring
+- 🤖 ML-Based Failure Prediction
+- 🧠 AI Safety Decision Engine
+- 🚨 Dynamic Risk & Severity Assessment
+- 💬 LLM-Powered Safety Agent
+- ⚙️ Physics-Inspired Sensor Simulation
+- 📡 Real-Time Monitoring with Flask-SocketIO
+
+**Tech Stack**
+
+`Python` • `PyTorch` • `Flask` • `Flask-SocketIO` • `Gemini` • `Machine Learning`
+
+---
+
 ## 🌍 WanderLust
 
 A full-stack travel accommodation platform where users can explore destinations, create property listings, upload images, and manage bookings through a modern web application.
@@ -175,6 +194,8 @@ I enjoy building systems that are secure, scalable, and practical—from AI-powe
 📧 Email: harsh.mishra7032@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/harshm28
+
+🌐 Portfolio: https://harshmishra.dev
 
 ---
 
