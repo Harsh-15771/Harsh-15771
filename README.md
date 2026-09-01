@@ -99,20 +99,24 @@ An AI-powered industrial safety decision-support system designed to analyze real
 
 ---
 
-## 🌍 WanderLust
+## 💰 CashIQ
 
-A full-stack travel accommodation platform where users can explore destinations, create property listings, upload images, and manage bookings through a modern web application.
+An autonomous B2B receivables decision intelligence platform that decomposes enterprise outstanding balances into six actionable working capital buckets, predicts debtor payment likelihood, and recommends next-best-actions — all governed by deterministic financial guardrails.
+
+🌐 **[Live Demo](https://cash-iq-eta.vercel.app/)** • 📖 **[API Docs](https://cashiq-cf8t.onrender.com/docs)**
 
 **Highlights**
-- 🏠 Property Listings
-- 📸 Cloud Image Uploads
-- 🔐 Authentication & Authorization
-- 🗺️ Interactive Maps
-- 📱 Responsive Design
+- 🧠 LightGBM Classifier with TreeSHAP Explainability
+- ⚖️ Integer Paise Expected Value Decision Engine
+- 🔒 Laplace Credibility Scoring for Debtor Profiling
+- 🧾 Section 194C TDS & GSTR-2B ITC Reconciliation
+- 🛡️ Deterministic Financial Guardrails (Price-Lock, Cooldown, High-Value Gating)
+- 🤖 Dual-Engine Email Parser (Gemini LLM + Deterministic Fallback)
+- ✅ 50/50 Tests Passing
 
 **Tech Stack**
 
-`Node.js` • `Express` • `MongoDB` • `Bootstrap` • `Cloudinary`
+`React` • `Vite` • `Python` • `FastAPI` • `LightGBM` • `SHAP` • `Gemini` • `Render` • `Vercel`
 
 ---
 
