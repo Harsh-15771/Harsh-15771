@@ -103,15 +103,13 @@ An AI-powered industrial safety decision-support system designed to analyze real
 
 An autonomous B2B receivables decision intelligence platform that decomposes enterprise outstanding balances into six actionable working capital buckets, predicts debtor payment likelihood, and recommends next-best-actions — all governed by deterministic financial guardrails.
 
-🌐 **[Live Demo](https://cash-iq-eta.vercel.app/)** • 📖 **[API Docs](https://cashiq-cf8t.onrender.com/docs)**
-
 **Highlights**
 - 🧠 LightGBM Classifier with TreeSHAP Explainability
 - ⚖️ Integer Paise Expected Value Decision Engine
 - 🔒 Laplace Credibility Scoring for Debtor Profiling
 - 🧾 Section 194C TDS & GSTR-2B ITC Reconciliation
-- 🛡️ Deterministic Financial Guardrails (Price-Lock, Cooldown, High-Value Gating)
-- 🤖 Dual-Engine Email Parser (Gemini LLM + Deterministic Fallback)
+- 🛡️ Deterministic Financial Guardrails
+- 🤖 Dual-Engine Email Parser with Gemini LLM
 - ✅ 50/50 Tests Passing
 
 **Tech Stack**
